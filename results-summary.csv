@@ -1,0 +1,9 @@
+test_id,feature,role,accuracy,usefulness,limitation,screenshot
+T1,Source-grounded chat,Student,,,,screenshots/T1-chat.png
+T2,Summary,Student,,,,screenshots/T2-summary.png
+T3,Quiz,Student,,,,screenshots/T3-quiz.png
+T4,Mind map,Student,,,,screenshots/T4-mindmap.png
+T5,Audio Overview,Student,,,,screenshots/T5-audio.png
+T6,Hallucination test,Student,,,,screenshots/T6-trap.png
+T7,Exam questions,Lecturer,,,,screenshots/T7-lecturer.png
+T8,Compare sources,Researcher,,,,screenshots/T8-researcher.png
