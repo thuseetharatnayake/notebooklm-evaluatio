@@ -1,15 +1,15 @@
-# notebooklm-evaluatio# NotebookLM Evaluation
+# NotebookLM Evaluation: Storage Models
 
-## Scenario
-A student uses Google NotebookLM to learn and compare four storage models:
-database, data warehouse, data lake and lakehouse.
+## What this is
+Evidence for Assessment 3, Q4 (BUS5001). I tested Google NotebookLM
+using two course files to learn the four storage models.
 
 ## Tool and date
-Tool: Google NotebookLM (free access)
-Date of tests: [insert date]
+Google NotebookLM (free access), tested on 17/oct.
 
-## Summary of findings
-[Write this last, after your tests. 3 short lines:
-1. Was it accurate?
-2. Was it useful for study?
-3. What was the main problem?]
+## Tests
+T1 Chat, T2 Quiz, T3 Mind map, T4 Slide deck, T5 Hallucination test.
+
+## Files
+test-log.md has the details of each test.
+screenshots/ has the evidence.
